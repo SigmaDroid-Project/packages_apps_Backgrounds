@@ -141,186 +141,6 @@
             subtitle1="@string/firefall_description"
             title="@string/firefall_title" />
 	</category>
-	<category id="Nothing" title="@string/title1">
-		<static-wallpaper
-	    id="wallpaper1"
-	    src="@drawable/wallpaper1"
-	    subtitle1="@string/wallpaper1subtitle"
-	    title="@string/wallpaper1title" />
-		<static-wallpaper
-	    id="wallpaper2"
-	    src="@drawable/wallpaper2"
-	    subtitle1="@string/wallpaper2subtitle"
-	    title="@string/wallpaper2title" />
-		<static-wallpaper
-	    id="wallpaper3"
-	    src="@drawable/wallpaper3"
-	    subtitle1="@string/wallpaper3subtitle"
-	    title="@string/wallpaper3title" />
-		<static-wallpaper
-	    id="wallpaper4"
-	    src="@drawable/wallpaper4"
-	    subtitle1="@string/wallpaper4subtitle"
-	    title="@string/wallpaper4title" />
-		<static-wallpaper
-	    id="wallpaper5"
-	    src="@drawable/wallpaper5"
-	    subtitle1="@string/wallpaper5subtitle"
-	    title="@string/wallpaper5title" />
-		<static-wallpaper
-	    id="wallpaper6"
-	    src="@drawable/wallpaper6"
-	    subtitle1="@string/wallpaper6subtitle"
-	    title="@string/wallpaper6title" />
-		<static-wallpaper
-	    id="wallpaper7"
-	    src="@drawable/wallpaper7"
-	    subtitle1="@string/wallpaper7subtitle"
-	    title="@string/wallpaper7title" />
-		<static-wallpaper
-	    id="wallpaper8"
-	    src="@drawable/wallpaper8"
-	    subtitle1="@string/wallpaper8subtitle"
-	    title="@string/wallpaper8title" />
-		<static-wallpaper
-	    id="wallpaper9"
-	    src="@drawable/wallpaper9"
-            subtitle1="@string/wallpaper9subtitle"
-	    title="@string/wallpaper9title" />
-		<static-wallpaper
-	    id="wallpaper10"
-	    src="@drawable/wallpaper10"
-            subtitle1="@string/wallpaper10subtitle"
-	    title="@string/wallpaper10title" />
-	</category>
-	<category id="riceDroid Wallpapers" title="@string/rice_title">
-		<static-wallpaper
-	    id="macapuno"
-	    subtitle1="@string/macapuno_description"
-	    subtitle2="@string/macapuno_attribution"
-	    title="@string/macapuno_title"
-            src="@drawable/riseandbloom" />
-		<static-wallpaper
-	    id="nata_de_coco"
-	    subtitle1="@string/nata_de_coco_description"
-	    subtitle2="@string/nata_de_coco_attribution"
-	    title="@string/nata_de_coco_title"
-            src="@drawable/nata_de_coco" />
-		<static-wallpaper
-	    id="obattu"
-	    subtitle1="@string/obattu_description"
-	    subtitle2="@string/obattu_attribution"
-	    title="@string/obattu_title"
-            src="@drawable/obattu" />
-		<static-wallpaper
-	    id="paella"
-	    subtitle1="@string/paella_description"
-	    subtitle2="@string/paella_attribution"
-	    title="@string/paella_title"
-            src="@drawable/blossoming_orange_flower_on_meadow" />
-	</category>
-	<category id="Midjourney x notayan99" title="@string/midjourneyxayan_title">
-		<static-wallpaper
-	    id="paella1"
-	    subtitle1="@string/paella1_description"
-	    subtitle2="@string/paella1_attribution"
-	    title="@string/paella1_title"
-            src="@drawable/paella1" />
-		<static-wallpaper
-	    id="paella2"
-	    subtitle1="@string/paella2_description"
-	    subtitle2="@string/paella2_attribution"
-	    title="@string/paella2_title"
-            src="@drawable/paella2" />
-	</category>
-	<category id="Wallfever x Rising" title="@string/wallfever_collab_title">
-		<static-wallpaper
-	    id="wf_chocolate_creme"
-	    subtitle1="@string/wf_description"
-	    subtitle2="@string/wf_attribution"
-	    title="@string/wf_chocolate_creme_title"
-            src="@drawable/wf_chocolate_creme" />
-		<static-wallpaper
-	    id="wf_orange_oracle"
-	    subtitle1="@string/wf_description"
-	    subtitle2="@string/wf_attribution"
-	    title="@string/wf_orange_oracle_title"
-            src="@drawable/wf_orange_oracle" />
-		<static-wallpaper
-	    id="wf_pink_plush"
-	    subtitle1="@string/wf_description"
-	    subtitle2="@string/wf_attribution"
-	    title="@string/wf_pink_plush_title"
-            src="@drawable/wf_pink_plush" />
-		<static-wallpaper
-	    id="wf_yellow_yard"
-	    subtitle1="@string/wf_description"
-	    subtitle2="@string/wf_attribution"
-	    title="@string/wf_yellow_yard_title"
-            src="@drawable/wf_yellow_yard" />
-	</category>
-	<category id="Nothing_2.0" title="@string/nothing_2">
-		<static-wallpaper
-	    id="nt_wallpaper_emyl_dark"
-	    src="@drawable/nt_wallpaper_emyl_dark"
-	    subtitle1="@string/nt_wallpaper_emyl_dark_subtitle"
-	    title="@string/nt_wallpaper_emyl_dark" />
-		<static-wallpaper
-	    id="nt_wallpaper_emyl_light"
-	    src="@drawable/nt_wallpaper_emyl_light"
-	    subtitle1="@string/nt_wallpaper_emyl_light_subtitle"
-	    title="@string/nt_wallpaper_emyl_light" />
-		<static-wallpaper
-	    id="nt_wallpaper_argesi_dark"
-	    src="@drawable/nt_wallpaper_argesi_dark"
-	    subtitle1="@string/nt_wallpaper_argesi_dark_subtitle"
-	    title="@string/nt_wallpaper_argesi_dark" />
-		<static-wallpaper
-	    id="nt_wallpaper_fottse_dark"
-	    src="@drawable/nt_wallpaper_fottse_dark"
-	    subtitle1="@string/nt_wallpaper_fottse_dark_subtitle"
-	    title="@string/nt_wallpaper_fottse_dark" />
-		<static-wallpaper
-	    id="nt_wallpaper_argesi_light"
-	    src="@drawable/nt_wallpaper_argesi_light"
-	    subtitle1="@string/nt_wallpaper_argesi_light_subtitle"
-	    title="@string/nt_wallpaper_argesi_light" />
-		<static-wallpaper
-	    id="nt_wallpaper_fottse_light"
-	    src="@drawable/nt_wallpaper_fottse_light"
-	    subtitle1="@string/nt_wallpaper_fottse_light_subtitle"
-	    title="@string/nt_wallpaper_fottse_light" />
-		<static-wallpaper
-	    id="nt_wallpaper_octopus_dark"
-	    src="@drawable/nt_wallpaper_octopus_dark"
-	    subtitle1="@string/nt_wallpaper_octopus_dark_subtitle"
-	    title="@string/nt_wallpaper_octopus_dark" />
-		<static-wallpaper
-	    id="nt_wallpaper_octopus_light"
-	    src="@drawable/nt_wallpaper_octopus_light"
-	    subtitle1="@string/nt_wallpaper_octopus_light_subtitle"
-	    title="@string/nt_wallpaper_octopus_light" />
-		<static-wallpaper
-	    id="nt_wallpaper_hazy_flower_dark"
-	    src="@drawable/nt_wallpaper_hazy_flower_dark"
-        subtitle1="@string/nt_wallpaper_hazy_flower_dark_subtitle"
-	    title="@string/nt_wallpaper_hazy_flower_dark" />
-		<static-wallpaper
-	    id="nt_wallpaper_hazy_flower_light"
-	    src="@drawable/nt_wallpaper_hazy_flower_light"
-            subtitle1="@string/nt_wallpaper_hazy_flower_light_subtitle"
-	    title="@string/nt_wallpaper_hazy_flower_light" />
-		<static-wallpaper
-	    id="nt_wallpaper_flower_green_glass"
-	    src="@drawable/nt_wallpaper_flower_green_glass"
-            subtitle1="@string/nt_wallpaper_flower_green_glass_subtitle"
-	    title="@string/nt_wallpaper_flower_green_glass" />
-		<static-wallpaper
-	    id="nt_wallpaper_flower_orange_glass"
-	    src="@drawable/nt_wallpaper_flower_orange_glass"
-            subtitle1="@string/nt_wallpaper_flower_orange_glass_subtitle"
-	    title="@string/nt_wallpaper_flower_orange_glass" />
-	</category>
 	<category id="Pixel Superfans" title="@string/pixel_super_title">
 		<static-wallpaper
 	        id="linda_jiang"
@@ -453,32 +273,6 @@
 	        src="@drawable/porcelain_light"
 	        title="@string/porcelain_light" />
 	</category>
-	<category id="Rising Two" title="@string/risingtwo_title">
-		<static-wallpaper
-	        id="risingtwo_v1"
-	        src="@drawable/risingtwo_v1"
-	        title="@string/risingtwo_v1" />
-		<static-wallpaper
-	        id="risingtwo_v2"
-	        src="@drawable/risingtwo_v2"
-	        title="@string/risingtwo_v2" />
-		<static-wallpaper
-	        id="risingtwo_v3"
-	        src="@drawable/risingtwo_v3"
-	        title="@string/risingtwo_v3" />
-		<static-wallpaper
-	        id="risingtwo_v4"
-	        src="@drawable/risingtwo_v4"
-	        title="@string/risingtwo_v4" />
-		<static-wallpaper
-	        id="risingtwo_v5"
-	        src="@drawable/risingtwo_v5"
-	        title="@string/risingtwo_v5" />
-		<static-wallpaper
-	        id="risingtwo_v6"
-	        src="@drawable/risingtwo_v6"
-	        title="@string/risingtwo_v6" />
-	</category>
 	<category id="Pixel 8 Minerals" title="@string/pixel8a_minerals_title">
 		<static-wallpaper
 	        id="titanite_d"
@@ -521,4 +315,145 @@
 	        title="@string/p8-porcelain-light"
 	        subtitle1="@string/p8_collection_desc" />
 	</category>
+	    <category id="sigma" title="@string/category_sigma" featured="sigma_wallpaper_1">
+
+        <static-wallpaper
+            id="sigma_wallpaper1_1"
+            src="@drawable/sigma_wallpaper1_1"
+            title="@string/wallpaper_sigma_wallpaper1_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper2_1"
+            src="@drawable/sigma_wallpaper2_1"
+            title="@string/wallpaper_sigma_wallpaper2_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper3_1"
+            src="@drawable/sigma_wallpaper3_1"
+            title="@string/wallpaper_sigma_wallpaper3_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper4_1"
+            src="@drawable/sigma_wallpaper4_1"
+            title="@string/wallpaper_sigma_wallpaper4_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper5_1"
+            src="@drawable/sigma_wallpaper5_1"
+            title="@string/wallpaper_sigma_wallpaper5_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper6_1"
+            src="@drawable/sigma_wallpaper6_1"
+            title="@string/wallpaper_sigma_wallpaper6_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper7_1"
+            src="@drawable/sigma_wallpaper7_1"
+            title="@string/wallpaper_sigma_wallpaper7_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper8_1"
+            src="@drawable/sigma_wallpaper8_1"
+            title="@string/wallpaper_sigma_wallpaper8_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper9_1"
+            src="@drawable/sigma_wallpaper9_1"
+            title="@string/wallpaper_sigma_wallpaper9_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper10_1"
+            src="@drawable/sigma_wallpaper10_1"
+            title="@string/wallpaper_sigma_wallpaper10_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper11_1"
+            src="@drawable/sigma_wallpaper11_1"
+            title="@string/wallpaper_sigma_wallpaper11_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper12_1"
+            src="@drawable/sigma_wallpaper12_1"
+            title="@string/wallpaper_sigma_wallpaper12_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper13_1"
+            src="@drawable/sigma_wallpaper13_1"
+            title="@string/wallpaper_sigma_wallpaper13_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper14_1"
+            src="@drawable/sigma_wallpaper14_1"
+            title="@string/wallpaper_sigma_wallpaper14_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper15_1"
+            src="@drawable/sigma_wallpaper15_1"
+            title="@string/wallpaper_sigma_wallpaper15_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper16_1"
+            src="@drawable/sigma_wallpaper16_1"
+            title="@string/wallpaper_sigma_wallpaper16_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper17_1"
+            src="@drawable/sigma_wallpaper17_1"
+            title="@string/wallpaper_sigma_wallpaper17_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper18_1"
+            src="@drawable/sigma_wallpaper18_1"
+            title="@string/wallpaper_sigma_wallpaper18_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper19_1"
+            src="@drawable/sigma_wallpaper19_1"
+            title="@string/wallpaper_sigma_wallpaper19_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper20_1"
+            src="@drawable/sigma_wallpaper20_1"
+            title="@string/wallpaper_sigma_wallpaper20_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper21_1"
+            src="@drawable/sigma_wallpaper21_1"
+            title="@string/wallpaper_sigma_wallpaper21_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper22_1"
+            src="@drawable/sigma_wallpaper22_1"
+            title="@string/wallpaper_sigma_wallpaper22_1"
+            subtitle1="@string/author_sigma" />
+
+        <static-wallpaper
+            id="sigma_wallpaper23_1"
+            src="@drawable/sigma_wallpaper23_1"
+            title="@string/wallpaper_sigma_wallpaper23_1"
+            subtitle1="@string/author_sigma" />
+
+    </category>
 </resources>
