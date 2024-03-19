@@ -455,5 +455,11 @@
             title="@string/wallpaper_sigma_wallpaper23_1"
             subtitle1="@string/author_sigma" />
 
+        <static-wallpaper
+            id="sigma_wallpaper24_retro_neon"
+            src="@drawable/retro_neon"
+            title="@string/wallpaper_sigma_wallpaper24_retro_neon"
+            subtitle1="@string/author_psn5inua" />
+
     </category>
 </resources>

@@ -196,6 +196,7 @@ Outside of work, Rachael is a mum to three young children and an avid photograph
     <string name="p8_collection_desc">by Andrew Zuckerman</string>
     <string name="category_sigma">Sigma</string>
     <string name="author_sigma">by Sigma</string>
+    <string name="author_psn5inua">by @psn5inua</string>
     <string name="wallpaper_sigma_wallpaper1_1">wallpaper1</string>
     <string name="wallpaper_sigma_wallpaper2_1">wallpaper2</string>
     <string name="wallpaper_sigma_wallpaper3_1">wallpaper3</string>
@@ -219,4 +220,5 @@ Outside of work, Rachael is a mum to three young children and an avid photograph
     <string name="wallpaper_sigma_wallpaper21_1">wallpaper21</string>
     <string name="wallpaper_sigma_wallpaper22_1">wallpaper22</string>
     <string name="wallpaper_sigma_wallpaper23_1">wallpaper23</string>
+    <string name="wallpaper_sigma_wallpaper24_retro_neon">Retro Neon</string>
 </resources>
