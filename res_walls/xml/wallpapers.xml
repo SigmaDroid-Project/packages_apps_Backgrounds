@@ -462,4 +462,34 @@
             subtitle1="@string/author_psn5inua" />
 
     </category>
+	<category id="Nothing 2a" title="@string/nothing2a">
+		<static-wallpaper
+            id="Ruxe"
+            src="@drawable/Ruxe"
+            title="@string/nothing_ruxe" />
+		<static-wallpaper
+            id="Ambra"
+            src="@drawable/Ambra"
+            title="@string/nothing_ambra" />
+		<static-wallpaper
+            id="Nexul"
+            src="@drawable/Nexul"
+            title="@string/nothing_nexul" />
+		<static-wallpaper
+            id="Azunim"
+            src="@drawable/Azunim"
+            title="@string/nothing_azunim" />
+		<static-wallpaper
+            id="Virmar"
+            src="@drawable/Virmar"
+            title="@string/nothing_virmar" />
+		<static-wallpaper
+            id="Orbique"
+            src="@drawable/Orbique"
+            title="@string/nothing_orbique" />
+		<static-wallpaper
+            id="Rubrane"
+            src="@drawable/Rubrane"
+            title="@string/nothing_rubrane" />
+	</category>
 </resources>

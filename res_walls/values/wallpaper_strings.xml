@@ -221,4 +221,14 @@ Outside of work, Rachael is a mum to three young children and an avid photograph
     <string name="wallpaper_sigma_wallpaper22_1">wallpaper22</string>
     <string name="wallpaper_sigma_wallpaper23_1">wallpaper23</string>
     <string name="wallpaper_sigma_wallpaper24_retro_neon">Retro Neon</string>
+    
+    <!-- Nothing 2a Official Wallpapers -->
+    <string name="nothing2a">Nothing 2a</string>
+    <string name="nothing_ruxe">Ruxe</string>
+    <string name="nothing_ambra">Ambra</string>
+    <string name="nothing_nexul">Nexul</string>
+    <string name="nothing_azunim">Azunim</string>
+    <string name="nothing_virmar">Virmar</string>
+    <string name="nothing_orbique">Orbique</string>
+    <string name="nothing_rubrane">Rubrane</string>
 </resources>
