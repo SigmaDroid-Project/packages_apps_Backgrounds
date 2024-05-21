@@ -492,4 +492,72 @@
             src="@drawable/Rubrane"
             title="@string/nothing_rubrane" />
 	</category>
+	
+    <category id="Pixel 9 Series" title="@string/pixel_9_series">
+        <static-wallpaper
+            id="jade_dark"
+            src="@drawable/jade_dark9"
+            title="@string/jade_dark_title" />
+        <static-wallpaper
+            id="jade_light"
+            src="@drawable/jade_light9"
+            title="@string/jade_light_title" />
+        <static-wallpaper
+            id="obsidian_dark"
+            src="@drawable/obsidian_dark"
+            title="@string/obsidian_dark_title" />
+        <static-wallaper
+            id="obsidian_light"
+            src="@drawable/obsidian_light"
+            title="@string/obsidian_light_title" />
+        <static-wallpaper
+            id="peony_dark"
+            src="@drawable/peony_dark9"
+            title="@string/peony_dark_title" />
+        <static-wallpaper
+            id="peony_light"
+            src="@drawable/peony_light9"
+            title="@string/peony_light_title" />
+        <static-wallpaper
+            id="porcelain_dark"
+            src="@drawable/porcelain_dark9"
+            title="@string/porcelain_dark_title" />
+        <static-wallpaper
+            id="porcelain_light"
+            src="@drawable/porcelain_light9"
+            title="@string/porcelain_light_title" />
+        <static-wallpaper
+            id="premium_hazel_dark"
+            src="@drawable/premium_hazel_dark"
+            title="@string/premium_hazel_dark_title" />
+        <static-wallpaper
+            id="premium_hazel_light"
+            src="@drawable/premium_hazel_light"
+            title="@string/premium_hazel_light_title" />
+        <static-wallpaper
+            id="premium_obsidian_dark"
+            src="@drawable/premium_obsidian_dark"
+            title="@string/premium_obsidian_dark_title" />
+        <static-wallpaper
+            id="premium_obsidian_light"
+            src="@drawable/premium_obsidian_light"
+            title="@string/premium_obsidian_light_title" />
+        <static-wallpaper
+            id="premium_porcelain_dark"
+            src="@drawable/premium_porcelain_dark"
+            title="@string/premium_porcelain_dark_title" />
+        <static-wallpaper
+            id="premium_porcelain_light"
+            src="@drawable/premium_porcelain_light"
+            title="@string/premium_porcelain_light_title" />
+        <static-wallpaper
+            id="premium_rose_dark"
+            src="@drawable/premium_rose_dark"
+            title="@string/premium_rose_dark_title" />
+        <static-wallpaper
+            id="premium_rose_light"
+            src="@drawable/premium_rose_light"
+            title="@string/premium_rose_light_title" />
+    </category>
+
 </resources>

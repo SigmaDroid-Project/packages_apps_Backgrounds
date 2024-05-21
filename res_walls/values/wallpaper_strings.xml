@@ -231,4 +231,24 @@ Outside of work, Rachael is a mum to three young children and an avid photograph
     <string name="nothing_virmar">Virmar</string>
     <string name="nothing_orbique">Orbique</string>
     <string name="nothing_rubrane">Rubrane</string>
+    
+    <!-- Pixel 9 Series -->
+    <string name="pixel_9_series">Pixel 9 Series</string>
+    <string name="jade_dark_title">Jade Dark</string>
+    <string name="jade_light_title">Jade Light</string>
+    <string name="obsidian_dark_title">Obsidian Dark</string>
+    <string name="obsidian_light_title">Obsidian Light</string>
+    <string name="peony_dark_title">Peony Dark</string>
+    <string name="peony_light_title">Peony Light</string>
+    <string name="porcelain_dark_title">Porcelain Dark</string>
+    <string name="porcelain_light_title">Porcelain Light</string>
+    <string name="premium_hazel_dark_title">Premium Hazel Dark</string>
+    <string name="premium_hazel_light_title">Premium Hazel Light</string>
+    <string name="premium_obsidian_dark_title">Premium Obsidian Dark</string>
+    <string name="premium_obsidian_light_title">Premium Obsidian Light</string>
+    <string name="premium_porcelain_dark_title">Premium Porcelain Dark</string>
+    <string name="premium_porcelain_light_title">Premium Porcelain Light</string>
+    <string name="premium_rose_dark_title">Premium Rose Dark</string>
+    <string name="premium_rose_light_title">Premium Rose Light</string>
+
 </resources>
